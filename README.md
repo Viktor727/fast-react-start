@@ -1,5 +1,5 @@
-"# fast-react-start" 
-1.
+
+1. "# fast-react-start" 
 
 npm create vite@latest
 npm install
